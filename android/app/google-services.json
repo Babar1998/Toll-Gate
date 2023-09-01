@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450541504414",
+    "project_id": "toll-gate-67452",
+    "storage_bucket": "toll-gate-67452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450541504414:android:06bced24fd21cc5e87788f",
+        "android_client_info": {
+          "package_name": "com.example.toll_gate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450541504414-u4urq9h4vanv4vpvl37p2rrdejjllf0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksJQBFhgHAv8yzhBazB3cir7ghtlDaRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450541504414-u4urq9h4vanv4vpvl37p2rrdejjllf0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
